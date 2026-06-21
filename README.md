@@ -107,6 +107,17 @@ monthly_sales_line_chart.png
 * Profit Analysis
 * Forecasting Module
 
+## 📸 Project Screenshots
+
+### Top Products Analysis
+![Top Products](screenshots/top_products_chart.png)
+
+### Monthly Sales Trend
+![Monthly Sales](screenshots/monthly_sales_chart.png)
+
+### Excel MIS Report
+![Excel Report](screenshots/cleaned_sales_report.png)
+
 ## 👨‍💻 Author
 
 Malay Nath
